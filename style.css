@@ -1,0 +1,24 @@
+html{
+    scroll-behavior:smooth;
+}
+
+#r1{
+    height: 200px;
+    border: 2px solid blue;
+}
+#r2{height: 200px;
+    background-color: blue;
+}
+#r3{height: 200px;
+    background-color: red;
+}
+
+#ukr1{
+    height: 300px;
+    background-color: blue;
+}
+#ukr2{
+    height: 300px;
+    background-color: yellow;
+}
+
